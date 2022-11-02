@@ -5,6 +5,7 @@
 
 #### Setup
 * To run the code you use;
+    cd web-scraper
     python scraper.py
 
 
